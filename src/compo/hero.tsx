@@ -152,7 +152,7 @@ export default function ThreeModel() {
           margin: 0,
           textShadow: '0 2px 10px rgba(59, 130, 246, 0.3)'
         }}>
-          Would You Hire Me? 🤔
+          Would You marry Me? 🤔
         </h1>
       </div>
       
